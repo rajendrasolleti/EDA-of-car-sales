@@ -1,2 +1,2 @@
 # EDA-of-car-sales
-This is the exploratory data analysis done by 
+This is the exploratory data analysis done by Rajendra Solleti
